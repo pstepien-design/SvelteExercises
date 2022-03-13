@@ -16,3 +16,11 @@
 <p>{count} * 2 = {doubled}</p>
 <p>{count} * 3 = {tripled}</p>
 <p>{count} * 4 = {quadrapled}</p>
+
+<style>
+  button {
+    border-radius: 3px;
+    background-color: pink;
+    width: 50%;
+  }
+</style>
